@@ -1,0 +1,21 @@
+Field Name,Description
+INSTRUCTION_UID,Unique Identification number for each Instruction
+JOB_REFERENCE,Job reference recorded in the Works Ordering system
+DATE_REPORTED,Date the Defect was created
+REQUIRED_START_DATE,Date the Defect repair is due to Start by
+REQUIRED_COMPLETION_DATE,Date the Defect is due to be completed by
+ACTUAL_COMPLETION_DATE,Date the Defect was completed
+RESPONSE_TIME_NAME,Period within which the Defect should be repaired
+ITEM_CATEGORY_NAME,Defect Category
+ITEM_TYPE_NAME,Asset name
+ITEM_DETAIL_NAME,Defect/Information
+INSTRUCTION_TYPE_NAME,Type of Instruction
+DEFECT_CATEGORY_NAME,Level of importance assigned to the Defect
+ENQUIRY_REFERENCE,"Corresponding reference in the Enquiry system, where appropriate"
+TOWN_NAME,National Street Gazetteer street name/description
+USRN,National Street Gazetteer - Unique Street Reference Number. A unique identification number that is assigned to a street e.g. between the start & end of a Street
+STREET_NAME,National Street Gazetteer street name/description
+EASTING,Ordance Survey Grid reference
+NORTHING,Ordance Survey Grid reference
+REPAIR_GANG,Repair Gang Unique Identification
+ESU_UID,National Street Gazetteer - Elementary Street Unit. A unique identification number that is assigned to a part of a street e.g. between junctions
